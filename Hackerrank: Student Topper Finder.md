@@ -47,7 +47,7 @@ print(topper, total_marks[topper])
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/660c8b7d-5faa-4be5-850c-50bec3cb1ab0)
+<img width="1183" height="190" alt="image" src="https://github.com/user-attachments/assets/ce008fcf-e6ef-4c87-a885-e5123f2a0f2a" />
 
 ## RESULT
 Thus, the program is verified successfully.
