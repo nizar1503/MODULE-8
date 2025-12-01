@@ -46,7 +46,7 @@ for name in names:
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/50920bca-3294-4de3-a44d-ad6571ae106c)
+<img width="1185" height="438" alt="image" src="https://github.com/user-attachments/assets/b06a581d-fb6c-4dfe-b339-f7a53575ef28" />
 
 ## Result
 Thus, the program is verified successfully.
