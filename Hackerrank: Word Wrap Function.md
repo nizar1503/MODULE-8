@@ -39,7 +39,7 @@ print(wrap(string, max_width))
 
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/59a64531-25ee-4452-a4f5-decdc2dbfb34)
+<img width="1187" height="395" alt="image" src="https://github.com/user-attachments/assets/96768526-8020-4810-a903-3792aff58862" />
 
 ## Result
 Thus, the program is verified successfully.
