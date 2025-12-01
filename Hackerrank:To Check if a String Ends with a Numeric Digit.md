@@ -32,8 +32,7 @@ else:
 
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/402c7074-c2a7-40dd-a7d3-16605eedf008)
-
+<img width="441" height="204" alt="image" src="https://github.com/user-attachments/assets/44b61fa3-c3db-462b-bbab-28647b40316e" />
 ## Result
 Thus, the program is verified successfully.
 
