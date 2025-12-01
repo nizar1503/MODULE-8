@@ -28,8 +28,7 @@ print(unique_scores[-2])
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/668d58c8-8a9a-4eab-bfaa-f030ed3aacd3)
-
+<img width="1182" height="231" alt="image" src="https://github.com/user-attachments/assets/aaf9d468-f36d-447c-94b8-8bf9a1a4abe2" />
 ## RESULT
 Thus, the program is verified successfully.
 
